@@ -3,8 +3,9 @@
 //  Cherry_GreetingAppTests
 //
 //  Created by Xianhui Che on 17/05/2016.
-//  Copyright © 2016 Xianhui Che. All rights reserved.
-//
+//  Copyright © 2016 Xianhui Che. All rights reserved.//
+
+//I HAVE MADE SOME CHANGES
 
 import XCTest
 @testable import Cherry_GreetingApp
